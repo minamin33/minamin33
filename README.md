@@ -1,4 +1,5 @@
-#Hi👋 Welcome to my Github! My name is Sherina, and I'm on a journey to become a versatile software engineer! 
+Hi👋 Welcome to my Github! My name is Sherina, and I'm on a journey to become a versatile software engineer! 
+
 Looking to collaborate on interactive projects.
 Currently working on a few Projects, the GUI for Gradebook Guru, CodePath Advocacy Project, Privacy Aware, and a Pygame called Guess Pix.
 🌱Right now, I am expanding my knowledge in web development which includes Javascript, CSS, and HTML.

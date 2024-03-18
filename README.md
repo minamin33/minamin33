@@ -1,5 +1,10 @@
-### Hi there 👋
+#Hi👋 Welcome to my Github! My name is Sherina, and I'm on a journey to become a versatile software engineer! 
+Looking to collaborate on interactive projects.
+Currently working on a few Projects, the GUI for Gradebook Guru, CodePath Advocacy Project, Privacy Aware, and a Pygame called Guess Pix.
+🌱Right now, I am expanding my knowledge in web development which includes Javascript, CSS, and HTML.
 
+Tools and Technologies:
+CSS, Javascript, HTML, Python, Java, MYSQL, VSCode, Git, GitHub, & Eclipse 
 <!--
 **minamin33/minamin33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

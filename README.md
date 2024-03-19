@@ -1,16 +1,18 @@
-Hi👋 Welcome to my Github! My name is Sherina, and I'm on a journey to become a versatile software engineer! 
+### Hi👋 Welcome to my Github! 
+My name is Sherina, and I am on a journey to become a full-stack engineer ✨
 
-Looking to collaborate on interactive projects.
+💡 Looking to collaborate on interactive projects.
 
-Currently working on a few Projects, the GUI for Gradebook Guru, CodePath Advocacy Project, Privacy Aware, and a Pygame called Guess Pix.
+🎮 Currently working on a few projects, including an Advocacy Project, Privacy Aware, and some personal projects such as the GUI for Gradebook Guru and a Pygame called Guess Pix.
 
-🌱Right now, I am expanding my knowledge in web development which includes Javascript, CSS, and HTML.
+🌱 Right now, I am expanding my knowledge in web development with [CodePath](https://www.codepath.org/?utm_term=codepath%20courses&utm_campaign=Search_Branded_Grants_Tuff&utm_source=google_ads&utm_medium=ppc&hsa_acc=5442780199&hsa_cam=20398215960&hsa_grp=154767639787&hsa_ad=668741591190&hsa_src=g&hsa_tgt=kwd-1366990116943&hsa_kw=codepath%20courses&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAVyNXgNdpmgY04_epmE3cnsOvIit6nFxwUYnLgRbyNJ0P993iERWKRoCcQEQAvD_BwE) which includes Javascript, CSS, and HTML.
 
+Also have a deep interest in data science 
 Tools and Technologies:
 CSS, Javascript, HTML, Python, Java, MYSQL, VSCode, Git, GitHub, & Eclipse 
 <!--
 **minamin33/minamin33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

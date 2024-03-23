@@ -1,13 +1,14 @@
 ### Hi👋 Welcome to my Github! 
 My name is Sherina, and I am on a journey to become a full-stack engineer ✨
 
-💡 Looking to collaborate on interactive projects.
+💡 Looking to collaborate on interactive projects. I'm eager to collaborate on interactive projects.
 
-🎮 Currently working on a few projects, including an Advocacy Project, Privacy Aware, and some personal projects such as the GUI for Gradebook Guru and a Pygame called Guess Pix.
+🎮  Currently, I'm immersed in several projects, including an Advocacy Project, Privacy Aware, and personal endeavors like the GUI for Gradebook Guru and a Pygame called Guess Pix
 
-🌱 Right now, I am expanding my knowledge in web development with [CodePath](https://www.codepath.org/?utm_term=codepath%20courses&utm_campaign=Search_Branded_Grants_Tuff&utm_source=google_ads&utm_medium=ppc&hsa_acc=5442780199&hsa_cam=20398215960&hsa_grp=154767639787&hsa_ad=668741591190&hsa_src=g&hsa_tgt=kwd-1366990116943&hsa_kw=codepath%20courses&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAVyNXgNdpmgY04_epmE3cnsOvIit6nFxwUYnLgRbyNJ0P993iERWKRoCcQEQAvD_BwE) which includes Javascript, CSS, and HTML.
+🌱 I'm expanding my web development skills through [CodePath](https://www.codepath.org/?utm_term=codepath%20courses&utm_campaign=Search_Branded_Grants_Tuff&utm_source=google_ads&utm_medium=ppc&hsa_acc=5442780199&hsa_cam=20398215960&hsa_grp=154767639787&hsa_ad=668741591190&hsa_src=g&hsa_tgt=kwd-1366990116943&hsa_kw=codepath%20courses&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAVyNXgNdpmgY04_epmE3cnsOvIit6nFxwUYnLgRbyNJ0P993iERWKRoCcQEQAvD_BwE), diving into JavaScript, CSS, and HTML.
 
-Also have a deep interest in data science 
+📊 Moreover, I have a profound interest in data science
+
 Tools and Technologies:
 CSS, Javascript, HTML, Python, Java, MYSQL, VSCode, Git, GitHub, & Eclipse 
 <!--

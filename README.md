@@ -1,4 +1,4 @@
-![https://github.com/sheri-na/sheri-na/assets/137211921/67b92911-0db4-4914-a290-0578c6509414]() 
+
 My name is Sherina, and I am on a journey to become a full-stack engineer  ✨
 
 💡 Looking to collaborate on interactive projects. I'm eager to collaborate on interactive projects.

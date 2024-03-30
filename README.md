@@ -1,5 +1,5 @@
 ### Hi👋 Welcome to my Github! 
-My name is Sherina, and I am on a journey to become a full-stack engineer ✨
+My name is Sherina, and I am on a journey to become a full-stack engineer  ✨
 
 💡 Looking to collaborate on interactive projects. I'm eager to collaborate on interactive projects.
 
